@@ -14,18 +14,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* color: #fff; */
-    /* background: url("/bg.jbg"); */
     background-size: cover;
 }
-
-    /* content: "";
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.6;
-    z-index: -1; */
-
 
 .input{
     display: flex;
